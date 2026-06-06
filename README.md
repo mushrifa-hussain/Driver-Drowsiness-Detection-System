@@ -16,11 +16,11 @@ A real-time Computer Vision application that detects driver drowsiness by monito
 
 ### Driver Awake
 
-<img src="images/awake.png" width="700">
+<img width="700"alt="WhatsApp Image 2026-06-06 at 9 24 46 PM" src="https://github.com/user-attachments/assets/c6fc69a3-47e7-4554-af45-b8334d6abe55" />
 
 ### Driver Drowsiness Detected
 
-<img src="images/drowsy.png" width="700">
+<img width="700" alt="WhatsApp Image 2026-06-06 at 9 25 29 PM" src="https://github.com/user-attachments/assets/6072a731-660a-46dd-ba2b-5b4d4e252dcf" />
 
 ## 🛠 Technologies Used
 
